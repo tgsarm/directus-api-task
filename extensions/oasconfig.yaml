@@ -1,0 +1,8 @@
+docsPath: 'api-docs'         # где будет UI и спецификация
+info:
+  title: 'My Directus API'
+  version: '1.0.0'
+  description: 'Автосгенерированная OpenAPI по схемам и endpoint-ам Directus'
+# ниже — опциональные разделы для кастомных тегов/компонентов
+# tags:
+# components:
